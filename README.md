@@ -3,10 +3,15 @@ A visually rich and interactive Power BI dashboard designed to explore songs, ar
 
 ## PROJECT OVERVIEW:
 This Power BI project provides a comprehensive music analytics experience by combining dynamic visuals, drill-down features, and intuitive navigation. The dashboard highlights:
+
 --> Songs Overview – popularity score, release trends, duration comparison
+
 --> Artist Insights – top-performing artists, active years, genre influence
+
 --> Song-Level Deep Dive – detailed performance metrics for any selected track
+
 --> Interactive Filters – search and analyze by year, genre, artist, and more
+
 The goal is to make music data fun, transparent, and instantly understandable through storytelling dashboards.
 
 ### Dashboard Features
